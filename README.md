@@ -21,7 +21,7 @@ A no-nonsense time clock app for hourly workers. Track hours, calculate pay, and
 ## 📸 Screenshots
 
 <details>
-  <summary>📐 Click to view app screenshots</summary>
+  <summary>Click to view app screenshots</summary>
   <br>
   <table>
     <tr>
