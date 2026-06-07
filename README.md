@@ -52,30 +52,54 @@
 
 ## Screenshots
 
-<img width="1080" height="2400" alt="Screenshot_20260606-224843_MyTimeClock" src="https://github.com/user-attachments/assets/28fadd5e-3100-40b3-99c9-def812d92cec" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224852_MyTimeClock" src="https://github.com/user-attachments/assets/f1ac1c76-7672-40a5-9d79-070f68a638c9" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224904_MyTimeClock" src="https://github.com/user-attachments/assets/7908baf2-481e-43e0-a441-13308340e4a5" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224915_MyTimeClock" src="https://github.com/user-attachments/assets/b6d9c897-a535-4536-8b25-ca1a4dc78634" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224936_MyTimeClock" src="https://github.com/user-attachments/assets/07c8d8dd-85d3-445b-92a2-754cbb5779e7" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224946_MyTimeClock" src="https://github.com/user-attachments/assets/5b82af3a-e104-478e-97b5-129396727b6f" />
-<img width="1080" height="2400" alt="Screenshot_20260606-224954_MyTimeClock" src="https://github.com/user-attachments/assets/01224dc4-63ea-4061-962b-103836d07f3f" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225023_MyTimeClock" src="https://github.com/user-attachments/assets/a87ce64e-aea1-4f66-b2c5-1fba09736646" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225217_MyTimeClock" src="https://github.com/user-attachments/assets/878e6bc4-25d5-48fc-9881-0ac16d5d369a" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225233_MyTimeClock" src="https://github.com/user-attachments/assets/fab66c4b-2388-47bd-bba1-c436e711c719" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225239_MyTimeClock" src="https://github.com/user-attachments/assets/92c80242-e1e7-4688-b1ae-788ff9109d8b" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225248_MyTimeClock" src="https://github.com/user-attachments/assets/95b79c8d-59dd-457f-81c3-0f692158a4a8" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225320_MyTimeClock" src="https://github.com/user-attachments/assets/d88578a9-f14d-4a97-b65a-cf617b7656ad" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225328_MyTimeClock" src="https://github.com/user-attachments/assets/b0bbd249-6ce6-439a-92f6-88750bbb3dc7" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225341_MyTimeClock" src="https://github.com/user-attachments/assets/f40f4cfb-e8c8-45bf-84da-d23ee58e7f20" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225432_MyTimeClock" src="https://github.com/user-attachments/assets/4e0c67f8-62b1-4cc2-a1ac-f77fa82b8dc8" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225443_MyTimeClock" src="https://github.com/user-attachments/assets/052299a5-db42-43bd-a244-dfc4aa21b8c8" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225450_MyTimeClock" src="https://github.com/user-attachments/assets/fec9a4d9-9cfe-478a-bd53-0218ba901504" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225502_MyTimeClock" src="https://github.com/user-attachments/assets/f0bea347-2919-4a3f-bd51-db21edd35456" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225511_MyTimeClock" src="https://github.com/user-attachments/assets/019d1361-e0e3-4475-9f81-22a8a2534af0" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225519_MyTimeClock" src="https://github.com/user-attachments/assets/b60e3099-2e59-4748-8256-87d7fb8efd96" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225540_Nova Launcher" src="https://github.com/user-attachments/assets/7a816c76-a3b1-4161-b063-10cc64f1cb21" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225549_Nova Launcher" src="https://github.com/user-attachments/assets/8089565a-c16e-4040-8dab-db73721c3c43" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225605_MyTimeClock" src="https://github.com/user-attachments/assets/59d229c4-c515-4945-a081-eb5a490ff972" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225619_MyTimeClock" src="https://github.com/user-attachments/assets/7b3ff83f-95ed-4ebc-9fd0-43f913dd837b" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225623_Nova Launcher" src="https://github.com/user-attachments/assets/7c887ef1-499e-43f3-8c18-3c97904fc6dc" />
-<img width="1080" height="2400" alt="Screenshot_20260606-225933_MyTimeClock" src="https://github.com/user-attachments/assets/0581b765-7d4d-4bc2-b048-13059287e53f" />
+<details>
+  <summary>📸 Click to view app screenshots</summary>
+  <br>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/28fadd5e-3100-40b3-99c9-def812d92cec" width="250" alt="Screenshot_20260606-224843_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/f1ac1c76-7672-40a5-9d79-070f68a638c9" width="250" alt="Screenshot_20260606-224852_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/7908baf2-481e-43e0-a441-13308340e4a5" width="250" alt="Screenshot_20260606-224904_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b6d9c897-a535-4536-8b25-ca1a4dc78634" width="250" alt="Screenshot_20260606-224915_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/07c8d8dd-85d3-445b-92a2-754cbb5779e7" width="250" alt="Screenshot_20260606-224936_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/5b82af3a-e104-478e-97b5-129396727b6f" width="250" alt="Screenshot_20260606-224946_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/01224dc4-63ea-4061-962b-103836d07f3f" width="250" alt="Screenshot_20260606-224954_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/a87ce64e-aea1-4f66-b2c5-1fba09736646" width="250" alt="Screenshot_20260606-225023_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/878e6bc4-25d5-48fc-9881-0ac16d5d369a" width="250" alt="Screenshot_20260606-225217_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/fab66c4b-2388-47bd-bba1-c436e711c719" width="250" alt="Screenshot_20260606-225233_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/92c80242-e1e7-4688-b1ae-788ff9109d8b" width="250" alt="Screenshot_20260606-225239_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/95b79c8d-59dd-457f-81c3-0f692158a4a8" width="250" alt="Screenshot_20260606-225248_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d88578a9-f14d-4a97-b65a-cf617b7656ad" width="250" alt="Screenshot_20260606-225320_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/b0bbd249-6ce6-439a-92f6-88750bbb3dc7" width="250" alt="Screenshot_20260606-225328_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/f40f4cfb-e8c8-45bf-84da-d23ee58e7f20" width="250" alt="Screenshot_20260606-225341_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4e0c67f8-62b1-4cc2-a1ac-f77fa82b8dc8" width="250" alt="Screenshot_20260606-225432_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/052299a5-db42-43bd-a244-dfc4aa21b8c8" width="250" alt="Screenshot_20260606-225443_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/fec9a4d9-9cfe-478a-bd53-0218ba901504" width="250" alt="Screenshot_20260606-225450_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f0bea347-2919-4a3f-bd51-db21edd35456" width="250" alt="Screenshot_20260606-225502_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/019d1361-e0e3-4475-9f81-22a8a2534af0" width="250" alt="Screenshot_20260606-225511_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/b60e3099-2e59-4748-8256-87d7fb8efd96" width="250" alt="Screenshot_20260606-225519_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7a816c76-a3b1-4161-b063-10cc64f1cb21" width="250" alt="Screenshot_20260606-225540_Nova Launcher"></td>
+      <td><img src="https://github.com/user-attachments/assets/8089565a-c16e-4040-8dab-db73721c3c43" width="250" alt="Screenshot_20260606-225549_Nova Launcher"></td>
+      <td><img src="https://github.com/user-attachments/assets/59d229c4-c515-4945-a081-eb5a490ff972" width="250" alt="Screenshot_20260606-225605_MyTimeClock"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7b3ff83f-95ed-4ebc-9fd0-43f913dd837b" width="250" alt="Screenshot_20260606-225619_MyTimeClock"></td>
+      <td><img src="https://github.com/user-attachments/assets/7c887ef1-499e-43f3-8c18-3c97904fc6dc" width="250" alt="Screenshot_20260606-225623_Nova Launcher"></td>
+      <td><img src="https://github.com/user-attachments/assets/0581b765-7d4d-4bc2-b048-13059287e53f" width="250" alt="Screenshot_20260606-225933_MyTimeClock"></td>
+    </tr>
+  </table>
+</details>
