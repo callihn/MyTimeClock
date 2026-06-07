@@ -1,4 +1,4 @@
-# MyTimeClock
+# ⏳ MyTimeClock
 
 > A no-nonsense time clock app for hourly workers. Track hours, calculate pay, and print reports — all offline.
 
@@ -21,7 +21,7 @@
 ## Features
 
 - **Clock In / Out** — One tap to clock in, one tap to clock out. Buttons swap colors (green = available action, red = inactive).
-- **Live Session Timer** — Elapsed time displayed while clocked in (`HH:MM:SS`). Toggle to show running earnings instead.
+- **Live Session Timer** — Elapsed time displayed while clocked in (`⏳ HH:MM:SS`). Toggle to show running earnings 💲instead.
 - **Today Summary** — Completed hours and earnings for today pinned at the top.
 - **Overtime Pay** — Configurable weekly (US federal) or daily (California-style) overtime with custom threshold and multiplier.
 - **Holiday Worked Pay** — One-tap add 11 US holidays with automatic date computation. Floating holidays (MLK Day, Memorial Day, etc.) dynamically resolve to the correct date for any year. Customizable multiplier for hours actually worked on holidays.
