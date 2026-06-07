@@ -1,6 +1,6 @@
 # ⏳ MyTimeClock
 
-> A no-nonsense time clock app for hourly workers. Track hours, calculate pay, and print reports — all offline.
+A no-nonsense time clock app for hourly workers. Track hours, calculate pay, and print reports — all offline.
 
 ---
 
