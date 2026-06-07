@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Downloads
-
-[![Get Latest Release](https://img.shields.io/badge/Get%20Latest%20Release-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callihn/MyTimeClock/releases)
-
----
-
 ## 🔒 Privacy & Data Safety
 
 * **Zero Network Permissions:** `MyTimeClock` operates entirely offline. Your tracking data, hourly rates, and earnings reports never leave your device.
@@ -18,10 +12,16 @@
 
 ---
 
-## Screenshots
+## 📦 Downloads
+
+[![Get the App](https://img.shields.io/github/v/release/callihn/MyTimeClock?style=for-the-badge&label=%F0%9F%9A%80%20Get%20the%20Latest%20Version&color=2ea44f)](https://github.com/callihn/MyTimeClock/releases/latest)
+
+---
+
+## 📸 Screenshots
 
 <details>
-  <summary>📸 Click to view app screenshots</summary>
+  <summary>📐 Click to view app screenshots</summary>
   <br>
   <table>
     <tr>
@@ -98,7 +98,7 @@
 
 ---
 
-## Technical Details
+## 🕵️ Technical Details
 
 - **Architecture:** 100% Offline-first local architecture.
 - **Storage:** Local SQLite database with automated background maintenance (`VACUUM`).
